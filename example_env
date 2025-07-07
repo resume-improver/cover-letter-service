@@ -1,0 +1,2 @@
+FOLDER_ID = # берётся из адреса сайта консоли https://console.yandex.cloud/folders/ХХХХХХХХХ?
+API_KEY =  # генерируется сервисным аккаунтом yandexgpt с ролью ai.languageModels.user
